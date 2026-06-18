@@ -1,0 +1,10 @@
+File_Name,Group,Stage,Full_Path
+HH + HdVRz -B19G.target.txt,HH + HdVRz,B19G,data\raw_in_vitro\HH + HdVRz -B19G.target.txt
+HH + HdVRz -EnvA.target.txt,HH + HdVRz,EnvA,data\raw_in_vitro\HH + HdVRz -EnvA.target.txt
+HH + HdVRz -plasmid.target.txt,HH + HdVRz,plasmid,data\raw_in_vitro\HH + HdVRz -plasmid.target.txt
+HH + Twister -EnvA.target.txt,HH + Twister,EnvA,data\raw_in_vitro\HH + Twister -EnvA.target.txt
+HH + Twister -plasmid.target.txt,HH + Twister,plasmid,data\raw_in_vitro\HH + Twister -plasmid.target.txt
+HH + Twister -sup1.target.txt,HH + Twister,B19G,data\raw_in_vitro\HH + Twister -B19G.target.txt
+RzB + Twister -EnvA.target.txt,RzB + Twister,EnvA,data\raw_in_vitro\RzB + Twister -EnvA.target.txt
+RzB + Twister -plasmid.target.txt,RzB + Twister,plasmid,data\raw_in_vitro\RzB + Twister -plasmid.target.txt
+RzB + Twister -sup1.target.txt,RzB + Twister,B19G,data\raw_in_vitro\RzB + Twister -B19G.target.txt

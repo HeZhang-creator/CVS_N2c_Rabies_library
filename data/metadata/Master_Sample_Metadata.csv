@@ -1,0 +1,19 @@
+Sample_ID,Group,Brain_Region,Replicate
+HH_HdVRz_LGN_Rep1,HH + HdVRz,LGN,1
+HH_HdVRz_LGN_Rep2,HH + HdVRz,LGN,2
+HH_HdVRz_LGN_Rep3,HH + HdVRz,LGN,3
+HH_HdVRz_V1_Rep1,HH + HdVRz,V1_Cortex,1
+HH_HdVRz_V1_Rep2,HH + HdVRz,V1_Cortex,2
+HH_HdVRz_V1_Rep3,HH + HdVRz,V1_Cortex,3
+HH_Twister_LGN_Rep1,HH + Twister,LGN,1
+HH_Twister_LGN_Rep2,HH + Twister,LGN,2
+HH_Twister_LGN_Rep3,HH + Twister,LGN,3
+HH_Twister_V1_Rep1,HH + Twister,V1_Cortex,1
+HH_Twister_V1_Rep2,HH + Twister,V1_Cortex,2
+HH_Twister_V1_Rep3,HH + Twister,V1_Cortex,3
+RzB_Twister_LGN_Rep1,RzB + Twister,LGN,1
+RzB_Twister_LGN_Rep2,RzB + Twister,LGN,2
+RzB_Twister_LGN_Rep3,RzB + Twister,LGN,3
+RzB_Twister_V1_Rep1,RzB + Twister,V1_Cortex,1
+RzB_Twister_V1_Rep2,RzB + Twister,V1_Cortex,2
+RzB_Twister_V1_Rep3,RzB + Twister,V1_Cortex,3
