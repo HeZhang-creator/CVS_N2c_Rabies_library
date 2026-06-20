@@ -7,7 +7,7 @@ Bioinformatics analysis pipeline for **ribozyme‑optimized, hyper‑diverse bar
 
 This repository accompanies:
 
-He Zhang1,3,*, Daoyin Liu1,2,3, Xueping Gao1, Xiangyu Ge1, Yahui Li1, Xia Zhang1, Lei Jin1,*
+_He Zhang1,3,*, Daoyin Liu1,2,3, Xueping Gao1, Xiangyu Ge1, Yahui Li1, Xia Zhang1, Lei Jin1,*_
 1 Lingang Laboratory, Shanghai 200031, China.
 2 School of Life Science and Technology, ShanghaiTech University, 201210, Shanghai, China.
 3 These authors contributed equally: He Zhang, Daoyin Liu
