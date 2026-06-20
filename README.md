@@ -7,9 +7,11 @@ Bioinformatics analysis pipeline for **ribozyme‑optimized, hyper‑diverse bar
 
 This repository accompanies:
 
-> **Zhang H\*, Liu D, Gao X, Ge X, Li Y, Zhang X, Jin L\*.**
-> *Ribozyme‑optimized CVS‑N2cΔG Rabies Virus with Hyper‑diverse Barcodes for High‑fidelity Single‑Neuron Projection Connectivity.*
-> Lingang Laboratory, Shanghai.
+He Zhang1,3,*, Daoyin Liu1,2,3, Xueping Gao1, Xiangyu Ge1, Yahui Li1, Xia Zhang1, Lei Jin1,*
+1 Lingang Laboratory, Shanghai 200031, China.
+2 School of Life Science and Technology, ShanghaiTech University, 201210, Shanghai, China.
+3 These authors contributed equally: He Zhang, Daoyin Liu
+*Correspondence: zhanghe@lglab.ac.cn	; jinlei@lglab.ac.cn
 
 ---
 
