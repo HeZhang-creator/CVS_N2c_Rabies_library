@@ -1,10 +1,10 @@
 File_Name,Group,Stage,Full_Path
-HH_HdVRz-B19G.target.txt,HH_HdVRz,B19G,data\raw_in_vitro\HH_HdVRz-B19G.target.txt
-HH_HdVRz-EnvA.target.txt,HH_HdVRz,EnvA,data\raw_in_vitro\HH_HdVRz-EnvA.target.txt
-HH_HdVRz-plasmid.target.txt,HH_HdVRz,plasmid,data\raw_in_vitro\HH_HdVRz-plasmid.target.txt
-HH_Twister-EnvA.target.txt,HH_Twister,EnvA,data\raw_in_vitro\HH_Twister-EnvA.target.txt
-HH_Twister-plasmid.target.txt,HH_Twister,plasmid,data\raw_in_vitro\HH_Twister-plasmid.target.txt
-HH_Twister-B19G.target.txt,HH_Twister,B19G,data\raw_in_vitro\HH_Twister-B19G.target.txt
-RzB_Twister-EnvA.target.txt,RzB_Twister,EnvA,data\raw_in_vitro\RzB_Twister-EnvA.target.txt
-RzB_Twister-plasmid.target.txt,RzB_Twister,plasmid,data\raw_in_vitro\RzB_Twister-plasmid.target.txt
-RzB_Twister-B19G.target.txt,RzB_Twister,B19G,data\raw_in_vitro\RzB_Twister-B19G.target.txt
+HH_HdVRz-B19G.target.txt,HH + HdVRz,B19G,data\raw_in_vitro\HH_HdVRz-B19G.target.txt
+HH_HdVRz-EnvA.target.txt,HH + HdVRz,EnvA,data\raw_in_vitro\HH_HdVRz-EnvA.target.txt
+HH_HdVRz-plasmid.target.txt,HH + HdVRz,plasmid,data\raw_in_vitro\HH_HdVRz-plasmid.target.txt
+HH_Twister-EnvA.target.txt,HH + Twister,EnvA,data\raw_in_vitro\HH_Twister-EnvA.target.txt
+HH_Twister-plasmid.target.txt,HH + Twister,plasmid,data\raw_in_vitro\HH_Twister-plasmid.target.txt
+HH_Twister-B19G.target.txt,HH + Twister,B19G,data\raw_in_vitro\HH_Twister-B19G.target.txt
+RzB_Twister-EnvA.target.txt,RzB + Twister,EnvA,data\raw_in_vitro\RzB_Twister-EnvA.target.txt
+RzB_Twister-plasmid.target.txt,RzB + Twister,plasmid,data\raw_in_vitro\RzB_Twister-plasmid.target.txt
+RzB_Twister-B19G.target.txt,RzB + Twister,B19G,data\raw_in_vitro\RzB_Twister-B19G.target.txt
